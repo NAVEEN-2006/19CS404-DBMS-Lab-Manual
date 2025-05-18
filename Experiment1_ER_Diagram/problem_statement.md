@@ -72,7 +72,7 @@ University ER Diagram
 
 6.University - university name, university id, students and staff
 
-...
+
 
 ## Relationships and Constraints:
 1.Student – Enrollment – Course
